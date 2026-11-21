@@ -1,4 +1,5 @@
 # COEN874 term project: Expected SARSA, SARSA and Q-learning on CliffWalking across three slip levels
+Note: config, results and tests are provided as config.zip, results.zip and tests.zip. Unzip them in the repository folder before running the scripts.
 
 Research question: how does Expected SARSA compare with SARSA and Q-learning in terms of **online return**, and of
 **safety** (cliff falls per 1,000 training steps), on the 4 x 12 CliffWalking task across three levels of
